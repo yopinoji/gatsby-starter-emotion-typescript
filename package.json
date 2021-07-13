@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/YopiNoji/gatsby-js-blog#readme",
   "dependencies": {
-    "@emotion/react": "11.1.5",
+    "@emotion/react": "11.4.0",
     "gatsby": "3.9.1",
     "gatsby-image": "3.9.0",
     "gatsby-plugin-emotion": "6.9.0",
